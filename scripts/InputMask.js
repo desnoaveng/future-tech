@@ -32,6 +32,8 @@ class InputMaskCollection {
 }
 
 export default InputMaskCollection
+
+//added
 document.addEventListener('DOMContentLoaded', function () {
   const prefixSelect = document.getElementById('phoneNumberPrefix');
   const phoneInput = document.getElementById('phoneNumber');
